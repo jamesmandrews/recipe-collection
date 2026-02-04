@@ -20,6 +20,9 @@ When given a recipe to add, Claude must format it according to this specificatio
 Recipes are organized by category in `/recipes/`:
 ```
 /recipes
+  /appetizers
+  /breads
+  /breakfast
   /desserts
   /mains
     /beef
@@ -27,11 +30,9 @@ Recipes are organized by category in `/recipes/`:
     /pork
     /seafood
     /vegetarian
-  /sides
-  /appetizers
-  /breakfast
-  /soups
   /salads
+  /sides
+  /soups
 /images
 ```
 

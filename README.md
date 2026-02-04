@@ -7,6 +7,9 @@ A personal collection of recipes in standardized markdown format.
 ### Appetizers
 - [Cheesy Garlic Potato Bites](recipes/appetizers/cheesy-garlic-potato-bites.md)
 
+### Breads
+- [Homemade Bread](recipes/breads/homemade-bread.md)
+
 ### Desserts
 - [Apple Strudel Ribbon Puff Pastry](recipes/desserts/apple-strudel-ribbon-puff-pastry.md)
 

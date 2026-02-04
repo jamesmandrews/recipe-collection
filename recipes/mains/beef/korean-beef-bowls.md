@@ -7,7 +7,7 @@
 | | |
 |-----|-----|
 | **Source** | Social media recipe |
-| **Cuisine** | Korean |
+| **Cuisine** | Korean-style |
 | **Servings** | 4 (served in 2½ cup / 600ml containers) |
 | **Storage** | Fridge 3-4 days (beef/rice), 2 days (salad) • Freeze 3 months (beef only) • Reheat 1-2 min microwave or 3-4 min stovetop |
 
