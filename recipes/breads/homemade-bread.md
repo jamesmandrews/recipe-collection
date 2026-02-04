@@ -16,13 +16,13 @@
 
 | Ingredient | Imperial | Metric |
 |------------|----------|--------|
-| Water | 1½ cups | 354g |
+| Water | 12.5 oz | 354g |
 | Instant yeast | 2¼ tsp | 7g |
-| Sugar | ¼ cup + 2 tbsp | 70g |
-| Bread flour | ~5 cups | 625g |
-| Powdered milk | ¼ cup | 32g |
+| Sugar | 2.5 oz | 70g |
+| Bread flour | 22 oz | 625g |
+| Powdered milk | 1.1 oz | 32g |
 | Salt | 1½ tsp | 9g |
-| Butter, room temperature | 5 tbsp | 60g |
+| Butter, room temperature | 2.1 oz | 60g |
 | Oil | 1 tbsp | 13g |
 
 ## Instructions
