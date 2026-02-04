@@ -42,14 +42,13 @@
 
 ## Instructions
 
-1. Combine chicken and marinade ingredients in a bowl. Marinate for at least 20 minutes, or up to overnight.
-2. Heat 1 tbsp oil in a skillet over high heat. Remove chicken from marinade (reserve marinade) and sear both sides until browned, about 1 minute each side. Do not cook all the way through.
-3. Remove chicken from skillet and set aside.
-4. Heat remaining oil in skillet. Add garlic and onion, cook 1½ minutes.
-5. Add reserved marinade, water, sugar, and black pepper. Bring to a simmer, then reduce heat to medium-high. Simmer 5 minutes.
-6. Add chicken smooth side down. Simmer uncovered for 20-25 minutes, turning chicken at around 15 minutes, until sauce reduces to a thick jam-like syrup.
-7. If sauce isn't thick enough, remove chicken to a plate and let sauce simmer by itself to thicken, then return chicken to coat in glaze.
-8. Coat chicken in glaze and serve over rice, garnished with green onions.
+1. Place the chicken in a bowl with the garlic, soy sauce, vinegar, and bay leaves. Let marinate for at least 20 minutes, or overnight in the refrigerator for deeper flavor.
+2. Heat half the oil in a large skillet over high heat. Lift the chicken from the marinade (save the liquid) and sear until golden on both sides, about 1 minute per side. The chicken should not be cooked through. Transfer to a plate.
+3. Add the remaining oil to the skillet and sauté the garlic and onion until softened and aromatic.
+4. Pour in the reserved marinade along with the water, brown sugar, and peppercorns. Stir and bring to a simmer, then cook for 5 minutes.
+5. Return the chicken to the pan, placing it smooth-side down. Let it simmer uncovered for 20-25 minutes, flipping halfway through, until the sauce has reduced to a thick, glossy glaze.
+6. If the sauce needs more time to reduce, temporarily remove the chicken and let the liquid cook down further before returning the chicken to coat.
+7. Serve the glazed chicken over rice and top with sliced green onions.
 
 ## Notes
 

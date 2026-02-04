@@ -34,18 +34,14 @@
 
 ## Instructions
 
-1. Place potatoes in a large pot and cover with water. Add ¼ cup salt and stir until dissolved.
-2. Bring to a boil over high heat and cook for about 10 minutes. Potatoes should be 75-80% cooked and still a bit firm.
-3. Strain off the water.
-4. Heat 2-3 tablespoons olive oil in a large frying pan over high heat.
-5. Add onions and garlic, cook for 2-3 minutes stirring occasionally. Salt and pepper to taste. Reduce heat to medium/medium-high.
-6. Add potatoes to the pan.
-7. Liberally drizzle 4-6 tablespoons olive oil over the potatoes. (It may seem like a lot, but the oil will reduce by serving time.)
-8. Add salt, pepper, and dried herbs to taste.
-9. Add about ¾ of the chopped rosemary.
-10. Stir everything together, ensuring potatoes are completely coated in herbs and oil.
-11. Cook over medium/medium-high heat for about 30 minutes, stirring/tossing several times. Potatoes are done when a fork goes through with just a slight bit of firmness remaining.
-12. Serve hot, garnished with remaining fresh rosemary.
+1. Add potatoes to a large pot, cover with water, and dissolve ¼ cup salt into the water.
+2. Bring to a boil and cook approximately 10 minutes until the potatoes are mostly cooked but still slightly firm in the center. Drain completely.
+3. In a large skillet, heat 2-3 tablespoons of olive oil over high heat. Sauté the onions and garlic for a few minutes until fragrant. Season with salt and pepper, then lower the heat to medium-high.
+4. Add the drained potatoes to the skillet and generously drizzle with the remaining olive oil to coat well.
+5. Season with the dried herbs, salt, and pepper, then add most of the fresh rosemary.
+6. Toss everything to combine, ensuring the potatoes are well coated.
+7. Cook for about 30 minutes, turning occasionally, until the exteriors are browned and crispy and the insides are fully tender.
+8. Transfer to a serving dish and garnish with the reserved fresh rosemary.
 
 ## Notes
 

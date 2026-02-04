@@ -53,20 +53,20 @@
 ## Instructions
 
 ### Cucumber Salad
-1. Slice cucumbers thin, toss with seasonings, set aside.
+1. Thinly slice the cucumbers and combine with the vinegar, sesame oil, sugar, salt, pepper flakes, and sesame seeds. Refrigerate while preparing the rest.
 
 ### Beef
-1. Coat sliced beef with cornstarch, salt, and pepper.
-2. Sear in hot wok: 45 seconds first side, 30 seconds second side. Work in batches.
+1. Toss the sliced beef with cornstarch, salt, and pepper until evenly coated.
+2. Heat a wok over high heat and quickly sear the beef in batches, cooking about 45 seconds per side. Remove and set aside.
 
 ### Sauce
-1. Bring all sauce ingredients (except slurry) to a gentle simmer.
-2. Add cornstarch slurry and stir until thickened.
+1. Combine all sauce ingredients except the cornstarch slurry in a pan and bring to a low simmer.
+2. Stir in the slurry and continue stirring until the sauce thickens.
 
 ### Finish
-1. Toss beef with sauce for 30-45 seconds.
-2. Serve over rice with cucumber salad.
-3. Garnish with green onions and sesame seeds.
+1. Return the beef to the sauce and toss to coat evenly.
+2. Plate over steamed rice alongside the cucumber salad.
+3. Top with sliced green onions and a sprinkle of sesame seeds.
 
 ## Notes
 

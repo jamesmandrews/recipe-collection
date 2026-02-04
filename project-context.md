@@ -6,6 +6,15 @@ This repository stores personal recipes in standardized markdown format for easy
 
 When given a recipe to add, Claude must format it according to this specification.
 
+## Copyright Guidelines
+
+**IMPORTANT:** Always reword the instructions in your own words to avoid copyright issues. Recipe ingredients cannot be copyrighted, but the specific written instructions can be. When formatting a recipe:
+
+- Keep the same steps and techniques
+- Rewrite the wording and phrasing to be original
+- Maintain clarity and accuracy while using different language
+- Do not copy instructions verbatim from the source
+
 ### File Location
 
 Recipes are organized by category in `/recipes/`:

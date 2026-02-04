@@ -48,25 +48,25 @@
 ## Instructions
 
 ### Sauce (day before)
-1. Combine all sauce ingredients and mix well. Refrigerate overnight.
+1. Whisk together all sauce ingredients until smooth. Cover and refrigerate overnight to let the flavors meld.
 
 ### Crust
-1. Preheat oven to 475°F (245°C).
-2. Spray 18x13 inch sheet pan with cooking spray and lay parchment paper down.
-3. Add flour, powdered milk, sugar, yeast, and salt to a large bowl. Whisk to blend.
-4. Add oil to warm water. Pour into flour mixture. Stir with a wooden spoon until batter forms. Don't worry about lumps - just no dry spots.
-5. Spread dough onto sheet pan with fingertips until even. If dough doesn't cooperate, let it rest 5 minutes and try again.
-6. Bake just the crust for 8-10 minutes. Remove and set aside.
+1. Heat oven to 475°F (245°C).
+2. Prepare an 18x13 inch sheet pan with cooking spray and line with parchment paper.
+3. In a large bowl, whisk together the flour, powdered milk, sugar, yeast, and salt.
+4. Stir the oil into the warm water, then pour into the dry ingredients. Mix with a wooden spoon until a shaggy dough forms with no dry flour remaining.
+5. Using your fingertips, press and stretch the dough evenly across the prepared pan. If the dough springs back, let it rest for 5 minutes before continuing.
+6. Par-bake the crust for 8-10 minutes until set but not browned. Remove from oven.
 
 ### Filling
-1. Brown meats with salt and pepper until crumbled. Drain and set aside.
+1. Cook the sausage and ground beef together in a skillet, breaking into small crumbles and seasoning with salt and pepper. Drain excess fat.
 
 ### Assembly
-1. Spread sauce all over partially baked crust.
-2. Sprinkle meats over sauce.
-3. Sprinkle cheese over top.
-4. Bake at 475°F (245°C) for 8-10 minutes until cheese starts to brown.
-5. Let stand 5 minutes, cut into slices, and serve.
+1. Spread the sauce evenly over the par-baked crust.
+2. Distribute the cooked meat over the sauce.
+3. Top with shredded or cubed mozzarella.
+4. Return to the oven and bake for 8-10 minutes until the cheese is melted and beginning to brown.
+5. Rest for 5 minutes before slicing and serving.
 
 ## Notes
 

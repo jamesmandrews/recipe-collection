@@ -31,11 +31,11 @@
 
 ## Instructions
 
-1. Peel and slice potatoes. Boil until tender (until a fork can easily pierce the surface).
-2. Mash the potatoes and butter until smooth.
-3. Add Parmesan, salt, garlic powder, parsley, cornstarch, and egg to mashed potatoes and mix until combined.
-4. Add a cheese cube to a small portion of potato mix and roll into a ball.
-5. Deep fry in 350°F (175°C) oil until golden and crispy.
+1. Peel the potatoes, cut into chunks, and boil in salted water until fork-tender. Drain well.
+2. While still hot, mash the potatoes with butter until completely smooth.
+3. Mix in the Parmesan, salt, garlic powder, parsley, cornstarch, and egg until a uniform dough forms.
+4. Take a small handful of the mixture, press a mozzarella cube into the center, and shape into a ball, sealing the cheese inside.
+5. Heat oil to 350°F (175°C) and fry the balls in batches until golden brown and crispy on all sides.
 
 ## Notes
 

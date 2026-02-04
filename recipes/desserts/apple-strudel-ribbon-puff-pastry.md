@@ -24,13 +24,13 @@
 
 ## Instructions
 
-1. Place an apple on its side and cut into circles ½ inch (1.25cm) thick. Use a small round cookie cutter to remove the center with seeds.
-2. Mix lemon juice, brown sugar, and pumpkin spice in a bowl. Toss apple rings until well coated.
-3. Cut one sheet of thawed pastry into 4 even squares. Make symmetrical 90° cuts on the corners of each square.
-4. Pull each quarter of the pastry towards the center of the apple ring and press down gently to stick.
-5. Brush pastry with egg wash. Drizzle ½ teaspoon of the leftover lemon-sugar-spice syrup into the center of the double bowtie design.
-6. Bake at 400°F (200°C) for 20 minutes.
-7. Top with a scoop of ice cream or whipped cream and serve immediately.
+1. Lay the apple on its side and slice into ½ inch (1.25cm) thick rounds. Use a small circular cutter to punch out the core and seeds from each ring.
+2. Whisk together the lemon juice, brown sugar, and pumpkin spice. Add the apple rings and coat thoroughly.
+3. Divide the thawed pastry sheet into 4 equal squares. Cut 90° angled slits into each corner of the squares.
+4. Place an apple ring in the center of each square, then fold the pastry corners inward over the apple, pressing gently to adhere and form a ribbon pattern.
+5. Brush the exposed pastry with beaten egg. Spoon a little of the remaining spiced syrup into the center of each pastry.
+6. Bake at 400°F (200°C) until puffed and golden, about 20 minutes.
+7. Serve warm with ice cream or whipped cream.
 
 ## Notes
 
