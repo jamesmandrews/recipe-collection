@@ -12,10 +12,12 @@ A personal collection of recipes in standardized markdown format.
 
 ### Desserts
 - [Apple Strudel Ribbon Puff Pastry](recipes/desserts/apple-strudel-ribbon-puff-pastry.md)
+- [Brownie Pudding](recipes/desserts/brownie-pudding.md)
 
 ### Mains
 
 #### Beef
+- [Hungarian Pörkölt](recipes/mains/beef/hungarian-porkolt.md)
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
 
 #### Chicken
