@@ -9,6 +9,7 @@ A personal collection of recipes in standardized markdown format.
 
 ### Breads
 - [Homemade Bread](recipes/breads/homemade-bread.md)
+- [Turkish Fold Bread](recipes/breads/turkish-fold-bread.md)
 
 ### Desserts
 - [Apple Strudel Ribbon Puff Pastry](recipes/desserts/apple-strudel-ribbon-puff-pastry.md)
@@ -17,8 +18,10 @@ A personal collection of recipes in standardized markdown format.
 ### Mains
 
 #### Beef
+- [Ground Beef Stroganoff](recipes/mains/beef/ground-beef-stroganoff.md)
 - [Hungarian Pörkölt](recipes/mains/beef/hungarian-porkolt.md)
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
+- [Turkish Kır Pidesi](recipes/mains/beef/turkish-kir-pidesi.md)
 
 #### Chicken
 - [Filipino Chicken Adobo](recipes/mains/chicken/filipino-chicken-adobo.md)
