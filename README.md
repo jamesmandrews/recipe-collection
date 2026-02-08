@@ -6,6 +6,7 @@ A personal collection of recipes in standardized markdown format.
 
 ### Appetizers
 - [Cheesy Garlic Potato Bites](recipes/appetizers/cheesy-garlic-potato-bites.md)
+- [Garlic Parmesan Cheese Balls](recipes/appetizers/garlic-parmesan-cheese-balls.md)
 
 ### Breads
 - [Homemade Bread](recipes/breads/homemade-bread.md)
