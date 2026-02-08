@@ -1,4 +1,4 @@
-# Garlic Parmesan Cheese Balls
+# Crunchy Garlic Parmesan Potato Bites
 
 > Crispy, golden fried potato balls stuffed with melty mozzarella and loaded with garlic and Parmesan flavor. A panko crust gives them an irresistible crunch.
 

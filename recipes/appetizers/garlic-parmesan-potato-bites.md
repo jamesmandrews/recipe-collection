@@ -1,4 +1,4 @@
-# Cheesy Garlic Potato Bites
+# Garlic Parmesan Potato Bites
 
 > Crispy fried potato balls with a gooey mozzarella center and garlic Parmesan flavor.
 
