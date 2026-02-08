@@ -15,6 +15,7 @@ A personal collection of recipes in standardized markdown format.
 ### Desserts
 - [Apple Strudel Ribbon Puff Pastry](recipes/desserts/apple-strudel-ribbon-puff-pastry.md)
 - [Brownie Pudding](recipes/desserts/brownie-pudding.md)
+- [Burnt Sugar Cake](recipes/desserts/burnt-sugar-cake.md)
 
 ### Mains
 
