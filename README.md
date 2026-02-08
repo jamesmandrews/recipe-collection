@@ -21,6 +21,7 @@ A personal collection of recipes in standardized markdown format.
 - [Ground Beef Stroganoff](recipes/mains/beef/ground-beef-stroganoff.md)
 - [Hungarian Pörkölt](recipes/mains/beef/hungarian-porkolt.md)
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
+- [Slow Cooker Mongolian Beef](recipes/mains/beef/slow-cooker-mongolian-beef.md)
 - [Turkish Kır Pidesi](recipes/mains/beef/turkish-kir-pidesi.md)
 
 #### Chicken
