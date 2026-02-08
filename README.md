@@ -1,4 +1,4 @@
-# Favorite Recipes
+# Recipes
 
 A personal collection of recipes in standardized markdown format.
 
