@@ -13,13 +13,18 @@ A personal collection of recipes in standardized markdown format.
 - [Turkish Fold Bread](recipes/breads/turkish-fold-bread.md)
 
 ### Desserts
+- [Apple Cobbler](recipes/desserts/apple-cobbler.md)
 - [Apple Strudel Ribbon Puff Pastry](recipes/desserts/apple-strudel-ribbon-puff-pastry.md)
 - [Brownie Pudding](recipes/desserts/brownie-pudding.md)
+- [Cherry Brown Betty](recipes/desserts/cherry-brown-betty.md)
+- [Lemon Buttermilk Cornmeal Pound Cake](recipes/desserts/lemon-buttermilk-cornmeal-pound-cake.md)
+- [Rice Pudding with Raisins](recipes/desserts/rice-pudding-with-raisins.md)
 - [Burnt Sugar Cake](recipes/desserts/burnt-sugar-cake.md)
 
 ### Mains
 
 #### Beef
+- [Braised Short Rib Stew with Collard Greens](recipes/mains/beef/braised-short-rib-stew-with-collard-greens.md)
 - [Ground Beef Stroganoff](recipes/mains/beef/ground-beef-stroganoff.md)
 - [Hungarian Pörkölt](recipes/mains/beef/hungarian-porkolt.md)
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
