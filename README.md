@@ -9,6 +9,7 @@ A personal collection of recipes in standardized markdown format.
 - [Garlic Parmesan Potato Bites](recipes/appetizers/garlic-parmesan-potato-bites.md)
 
 ### Breads
+- [Blueberry Yogurt Loaf](recipes/breads/blueberry-yogurt-loaf.md)
 - [Homemade Bread](recipes/breads/homemade-bread.md)
 - [Turkish Fold Bread](recipes/breads/turkish-fold-bread.md)
 
@@ -32,10 +33,15 @@ A personal collection of recipes in standardized markdown format.
 - [Turkish Kır Pidesi](recipes/mains/beef/turkish-kir-pidesi.md)
 
 #### Chicken
+- [Chicken Shawarma Platter](recipes/mains/chicken/chicken-shawarma-platter.md)
+- [Chili Mac Pot Pie](recipes/mains/chicken/chili-mac-pot-pie.md)
 - [Filipino Chicken Adobo](recipes/mains/chicken/filipino-chicken-adobo.md)
 
 #### Pizza
 - [School Pizza](recipes/mains/pizza/school-pizza.md)
+
+### Sauces
+- [Toum](recipes/sauces/toum.md)
 
 ### Sides
 - [German Style Rosemary Potatoes](recipes/sides/german-style-rosemary-potatoes.md)
