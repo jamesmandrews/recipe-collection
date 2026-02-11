@@ -1,4 +1,4 @@
-# Toum
+# Toum (Lebanese Garlic Sauce)
 
 > A traditional Lebanese garlic sauce whipped into a fluffy, intensely garlicky emulsion. Creamy, punchy, and perfect alongside shawarma, grilled meats, or spread on flatbread.
 
