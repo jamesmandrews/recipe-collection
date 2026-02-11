@@ -9,8 +9,10 @@ A personal collection of recipes in standardized markdown format.
 - [Garlic Parmesan Potato Bites](recipes/appetizers/garlic-parmesan-potato-bites.md)
 
 ### Breads
+- [Bacon Cheddar Cheese Bread](recipes/breads/bacon-cheddar-cheese-bread.md)
 - [Blueberry Yogurt Loaf](recipes/breads/blueberry-yogurt-loaf.md)
 - [Homemade Bread](recipes/breads/homemade-bread.md)
+- [Soft Homemade Dinner Rolls](recipes/breads/soft-dinner-rolls.md)
 - [Turkish Fold Bread](recipes/breads/turkish-fold-bread.md)
 
 ### Desserts
@@ -21,6 +23,9 @@ A personal collection of recipes in standardized markdown format.
 - [Lemon Buttermilk Cornmeal Pound Cake](recipes/desserts/lemon-buttermilk-cornmeal-pound-cake.md)
 - [Rice Pudding with Raisins](recipes/desserts/rice-pudding-with-raisins.md)
 - [Burnt Sugar Cake](recipes/desserts/burnt-sugar-cake.md)
+- [Chocolate Ice Cream](recipes/desserts/chocolate-ice-cream.md)
+- [Fudgy Brownies](recipes/desserts/fudgy-brownies.md)
+- [Vanilla Ice Cream](recipes/desserts/vanilla-ice-cream.md)
 
 ### Mains
 
@@ -33,6 +38,7 @@ A personal collection of recipes in standardized markdown format.
 - [Turkish Kır Pidesi](recipes/mains/beef/turkish-kir-pidesi.md)
 
 #### Chicken
+- [Chicken Garlic Parmesan Pasta](recipes/mains/chicken/chicken-garlic-parmesan-pasta.md)
 - [Chicken Shawarma Platter](recipes/mains/chicken/chicken-shawarma-platter.md)
 - [Chili Mac Pot Pie](recipes/mains/chicken/chili-mac-pot-pie.md)
 - [Filipino Chicken Adobo](recipes/mains/chicken/filipino-chicken-adobo.md)
