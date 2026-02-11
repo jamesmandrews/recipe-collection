@@ -41,7 +41,7 @@ A personal collection of recipes in standardized markdown format.
 - [School Pizza](recipes/mains/pizza/school-pizza.md)
 
 ### Sauces
-- [Toum](recipes/sauces/toum.md)
+- [Toum (Lebanese Garlic Sauce)](recipes/sauces/toum.md)
 
 ### Sides
 - [German Style Rosemary Potatoes](recipes/sides/german-style-rosemary-potatoes.md)
