@@ -44,6 +44,7 @@ A personal collection of recipes in standardized markdown format.
 - [Filipino Chicken Adobo](recipes/mains/chicken/filipino-chicken-adobo.md)
 
 #### Pizza
+- [Pizza Pockets](recipes/mains/pizza/pizza-pockets.md)
 - [School Pizza](recipes/mains/pizza/school-pizza.md)
 
 ### Sauces
