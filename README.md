@@ -53,3 +53,4 @@ A personal collection of recipes in standardized markdown format.
 
 ### Sides
 - [German Style Rosemary Potatoes](recipes/sides/german-style-rosemary-potatoes.md)
+- [Korean Cucumber Salad](recipes/sides/korean-cucumber-salad.md)

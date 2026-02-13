@@ -33,27 +33,14 @@
 | Ginger, grated | 1½ tbsp | 1½ tbsp |
 | Cornstarch slurry (equal parts cold water) | 1 tbsp | 8g |
 
-### Cucumber Salad
-| Ingredient | Imperial | Metric |
-|------------|----------|--------|
-| English cucumbers, thinly sliced | 2 | 2 |
-| Rice vinegar | 1 tbsp | 15ml |
-| Sesame oil | 1 tsp | 5ml |
-| Sugar | ½ tsp | 2g |
-| Salt | pinch | pinch |
-| Red pepper flakes (optional) | 1 tsp | 1 tsp |
-| Toasted sesame seeds | 1 tsp | 1 tsp |
-
 ### For Serving
 | Ingredient | Imperial | Metric |
 |------------|----------|--------|
 | Cooked white rice (1 cup uncooked) | 3 cups | 570g |
 | Green onions, chopped | 3 | 3 |
+| [Korean Cucumber Salad](../../sides/korean-cucumber-salad.md) | 1 batch | 1 batch |
 
 ## Instructions
-
-### Cucumber Salad
-1. Thinly slice the cucumbers and combine with the vinegar, sesame oil, sugar, salt, pepper flakes, and sesame seeds. Refrigerate while preparing the rest.
 
 ### Beef
 1. Toss the sliced beef with cornstarch, salt, and pepper until evenly coated.
