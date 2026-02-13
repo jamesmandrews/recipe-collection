@@ -9,6 +9,7 @@ A personal collection of recipes in standardized markdown format.
 - [Garlic Parmesan Potato Bites](recipes/appetizers/garlic-parmesan-potato-bites.md)
 
 ### Breads
+- [Azerbaijani Qatlama](recipes/breads/azerbaijani-qatlama.md)
 - [Bacon Cheddar Cheese Bread](recipes/breads/bacon-cheddar-cheese-bread.md)
 - [Blueberry Yogurt Loaf](recipes/breads/blueberry-yogurt-loaf.md)
 - [Homemade Bread](recipes/breads/homemade-bread.md)
@@ -41,6 +42,7 @@ A personal collection of recipes in standardized markdown format.
 #### Chicken
 - [Chicken Garlic Parmesan Pasta](recipes/mains/chicken/chicken-garlic-parmesan-pasta.md)
 - [Chicken Shawarma Platter](recipes/mains/chicken/chicken-shawarma-platter.md)
+- [Chicken Soup with Ricotta Gnocchi](recipes/mains/chicken/chicken-soup-with-ricotta-gnocchi.md)
 - [Chili Mac Pot Pie](recipes/mains/chicken/chili-mac-pot-pie.md)
 - [Filipino Chicken Adobo](recipes/mains/chicken/filipino-chicken-adobo.md)
 
