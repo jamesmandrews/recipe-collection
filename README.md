@@ -41,6 +41,7 @@ A personal collection of recipes in standardized markdown format.
 - [Turkish Kır Pidesi](recipes/mains/beef/turkish-kir-pidesi.md)
 
 #### Chicken
+- [Baharat Chicken and Rice Bake](recipes/mains/chicken/baharat-chicken-and-rice-bake.md)
 - [Chicken Garlic Parmesan Pasta](recipes/mains/chicken/chicken-garlic-parmesan-pasta.md)
 - [Chicken Shawarma Platter](recipes/mains/chicken/chicken-shawarma-platter.md)
 - [Chicken Soup with Ricotta Gnocchi](recipes/mains/chicken/chicken-soup-with-ricotta-gnocchi.md)
