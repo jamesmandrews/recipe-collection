@@ -11,6 +11,7 @@ A personal collection of recipes in standardized markdown format.
 ### Breads
 - [Azerbaijani Qatlama](recipes/breads/azerbaijani-qatlama.md)
 - [Bacon Cheddar Cheese Bread](recipes/breads/bacon-cheddar-cheese-bread.md)
+- [Chocolate Babka](recipes/breads/chocolate-babka.md)
 - [Blueberry Yogurt Loaf](recipes/breads/blueberry-yogurt-loaf.md)
 - [Homemade Bread](recipes/breads/homemade-bread.md)
 - [Soft Homemade Dinner Rolls](recipes/breads/soft-dinner-rolls.md)
