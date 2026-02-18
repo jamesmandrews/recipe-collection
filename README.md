@@ -28,12 +28,14 @@ A personal collection of recipes in standardized markdown format.
 - [Burnt Sugar Cake](recipes/desserts/burnt-sugar-cake.md)
 - [Chocolate Ice Cream](recipes/desserts/chocolate-ice-cream.md)
 - [Fudgy Brownies](recipes/desserts/fudgy-brownies.md)
+- [Upside-Down Cake with Caramelized Apple Slices](recipes/desserts/upside-down-cake-with-caramelized-apple-slices.md)
 - [Vanilla Ice Cream](recipes/desserts/vanilla-ice-cream.md)
 
 ### Mains
 
 #### Beef
 - [Braised Short Rib Stew with Collard Greens](recipes/mains/beef/braised-short-rib-stew-with-collard-greens.md)
+- [Crockpot Beef Stroganoff](recipes/mains/beef/crockpot-beef-stroganoff.md)
 - [Ground Beef Stroganoff](recipes/mains/beef/ground-beef-stroganoff.md)
 - [Hungarian Pörkölt](recipes/mains/beef/hungarian-porkolt.md)
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
@@ -49,6 +51,7 @@ A personal collection of recipes in standardized markdown format.
 - [Chicken Soup with Ricotta Gnocchi](recipes/mains/chicken/chicken-soup-with-ricotta-gnocchi.md)
 - [Chili Mac Pot Pie](recipes/mains/chicken/chili-mac-pot-pie.md)
 - [Filipino Chicken Adobo](recipes/mains/chicken/filipino-chicken-adobo.md)
+- [Ground Chicken Ranchero Wraps](recipes/mains/chicken/ground-chicken-ranchero-wraps.md)
 
 #### Pizza
 - [Pizza Pockets](recipes/mains/pizza/pizza-pockets.md)
