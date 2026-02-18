@@ -24,6 +24,7 @@ A personal collection of recipes in standardized markdown format.
 - [Cherry Brown Betty](recipes/desserts/cherry-brown-betty.md)
 - [Lemon Buttermilk Cornmeal Pound Cake](recipes/desserts/lemon-buttermilk-cornmeal-pound-cake.md)
 - [Rice Pudding with Raisins](recipes/desserts/rice-pudding-with-raisins.md)
+- [Southern Butter Rolls](recipes/desserts/southern-butter-rolls.md)
 - [Burnt Sugar Cake](recipes/desserts/burnt-sugar-cake.md)
 - [Chocolate Ice Cream](recipes/desserts/chocolate-ice-cream.md)
 - [Fudgy Brownies](recipes/desserts/fudgy-brownies.md)
@@ -41,6 +42,7 @@ A personal collection of recipes in standardized markdown format.
 - [Turkish Kır Pidesi](recipes/mains/beef/turkish-kir-pidesi.md)
 
 #### Chicken
+- [30 Minute Chicken Ranchero](recipes/mains/chicken/30-minute-chicken-ranchero.md)
 - [Baharat Chicken and Rice Bake](recipes/mains/chicken/baharat-chicken-and-rice-bake.md)
 - [Chicken Garlic Parmesan Pasta](recipes/mains/chicken/chicken-garlic-parmesan-pasta.md)
 - [Chicken Shawarma Platter](recipes/mains/chicken/chicken-shawarma-platter.md)
