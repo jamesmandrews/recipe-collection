@@ -68,6 +68,17 @@
 4. Return to the oven and bake for 8-10 minutes until the cheese is melted and beginning to brown.
 5. Rest for 5 minutes before slicing and serving.
 
+## Nutrition
+
+*Approximate values per slice (10 slices).*
+
+| | Per Slice |
+|-----|-----|
+| **Calories** | 460 |
+| **Protein** | 22g |
+| **Carbs** | 35g |
+| **Fat** | 26g |
+
 ## Notes
 
 ---

@@ -60,6 +60,17 @@
 7. Continue simmering uncovered for about 30 minutes, stirring occasionally, until the broth thickens and the carrots are tender.
 8. Taste and adjust salt and pepper as needed. Ladle into bowls and top with fresh parsley.
 
+## Nutrition
+
+*Approximate values per serving (8 servings). Does not include rice or cornbread.*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 645 |
+| **Protein** | 42g |
+| **Carbs** | 25g |
+| **Fat** | 40g |
+
 ## Notes
 
 - Pairs beautifully with cornbread or served over rice.

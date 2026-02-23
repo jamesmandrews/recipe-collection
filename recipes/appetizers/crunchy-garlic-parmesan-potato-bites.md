@@ -70,6 +70,17 @@
 1. Heat oil to 350 °F (175 °C). Fry the balls in batches for 2–3 minutes, turning as needed, until golden brown and crispy all over.
 2. Drain briefly on paper towels, then finish with a generous sprinkle of Parmesan cheese and serve right away.
 
+## Nutrition
+
+*Approximate values per serving (6 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 550 |
+| **Protein** | 20g |
+| **Carbs** | 55g |
+| **Fat** | 28g |
+
 ## Notes
 
 

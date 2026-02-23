@@ -46,6 +46,17 @@
 5. Bake for 90 minutes total. About 30 minutes in, gently stir from the bottom edges inward to redistribute the rice and raisins for an even texture.
 6. The pudding is done when the center is softly set with a slight jiggle. Remove from the water bath and let it cool — it will continue to thicken as it rests.
 
+## Nutrition
+
+*Approximate values per serving (9 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 260 |
+| **Protein** | 7g |
+| **Carbs** | 46g |
+| **Fat** | 5g |
+
 ## Notes
 
 - Serve warm or chilled. Great on its own or with a dollop of whipped cream.

@@ -30,6 +30,17 @@
 5. After another cup of oil, add 1 tbsp of ice water and the remaining lemon juice. Continue drizzling the rest of the oil.
 6. Add 1–2 more tbsp of ice water as needed to keep the emulsion smooth and fluffy. The finished toum should be thick, white, and fluffy — similar to the texture of whipped cream or mayonnaise.
 
+## Nutrition
+
+*Approximate values per serving (16 servings of ~2 tbsp).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 395 |
+| **Protein** | 1g |
+| **Carbs** | 2g |
+| **Fat** | 44g |
+
 ## Notes
 
 - The oil must be added in a very slow, thin stream — patience is everything. If the emulsion breaks, start with a fresh egg white or a small amount of new garlic in a clean processor and slowly drizzle the broken mixture back in.

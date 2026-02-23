@@ -52,6 +52,17 @@
 2. Bake for approximately 30 minutes until the tops are golden brown. If browning too quickly, tent with foil.
 3. Remove from pans and cool completely on a wire rack before slicing or storing.
 
+## Nutrition
+
+*Approximate values per slice (24 slices across 2 loaves).*
+
+| | Per Slice |
+|-----|-----|
+| **Calories** | 130 |
+| **Protein** | 4g |
+| **Carbs** | 23g |
+| **Fat** | 3g |
+
 ## Notes
 
 Powdered milk can be replaced with liquid milk. Substitute the water with an equal amount of whole milk, 2% milk, or diluted evaporated milk, and omit the powdered milk.

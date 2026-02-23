@@ -50,6 +50,17 @@
 6. If the sauce needs more time to reduce, temporarily remove the chicken and let the liquid cook down further before returning the chicken to coat.
 7. Serve the glazed chicken over rice and top with sliced green onions.
 
+## Nutrition
+
+*Approximate values per serving (4 servings). Does not include rice.*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 435 |
+| **Protein** | 38g |
+| **Carbs** | 8g |
+| **Fat** | 28g |
+
 ## Notes
 
 Do NOT substitute with chicken breast - you need the fat in thighs for the sauce to reduce to a glaze. For bone-in thighs, wings, or drumsticks, add ¾ cup water and simmer 30 minutes.

@@ -32,6 +32,17 @@
 4. Pour the batter into a greased cupcake pan, filling each cup about ¾ full. Top with extra chopped bacon.
 5. Bake until puffed and golden, about 20–25 minutes.
 
+## Nutrition
+
+*Approximate values per serving (12 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 410 |
+| **Protein** | 10g |
+| **Carbs** | 38g |
+| **Fat** | 25g |
+
 ## Notes
 
 - The tapioca starch gives these a chewy, pão de queijo–style texture — gluten-free by nature.

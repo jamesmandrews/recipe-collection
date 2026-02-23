@@ -32,6 +32,17 @@
 6. Strain through a fine-mesh sieve (to catch any cooked egg pieces) and chill in an ice bath (a bowl set inside a bowl of ice water) until cooled to room temperature. Cover with plastic wrap and refrigerate until completely cold, about 2–3 hours.
 7. Once completely cooled, add the mixture to an ice cream maker according to the manufacturer's instructions and freeze.
 
+## Nutrition
+
+*Approximate values per serving (12 servings of ~½ cup).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 315 |
+| **Protein** | 4g |
+| **Carbs** | 28g |
+| **Fat** | 21g |
+
 ## Notes
 
 - Tempering the eggs is the most important step — go slowly to avoid scrambled bits in your custard.

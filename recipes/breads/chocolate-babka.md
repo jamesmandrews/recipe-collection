@@ -77,6 +77,17 @@
 4. When the babka comes out of the oven, pour the syrup over it immediately while still hot — use all of it.
 5. Let the loaf cool completely in the pan before removing. Serve slightly warm. Wrap tightly once cooled and keep 2–3 days at room temp, or freeze for longer storage.
 
+## Nutrition
+
+*Approximate values per slice (14 slices).*
+
+| | Per Slice |
+|-----|-----|
+| **Calories** | 250 |
+| **Protein** | 4g |
+| **Carbs** | 30g |
+| **Fat** | 13g |
+
 ## Source
 
 [The Berger Feed](https://www.thebergerfeed.com/chocolatebabka)

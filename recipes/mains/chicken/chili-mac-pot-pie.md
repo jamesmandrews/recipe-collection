@@ -49,5 +49,16 @@
 5. Mix cornbread with buttermilk, oil, cheese, and jalapeño. Spoon over chili mac.
 6. Bake 15–20 minutes until golden. Top with sour cream and extra cheese.
 
+## Nutrition
+
+*Approximate values per serving (7 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 495 |
+| **Protein** | 30g |
+| **Carbs** | 50g |
+| **Fat** | 18g |
+
 ---
 **Tags:** `#chicken` `#chili` `#mac-and-cheese` `#pot-pie` `#comfort-food` `#cornbread`

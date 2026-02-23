@@ -36,6 +36,17 @@
 3. Remove from heat and add basil, stirring until lightly wilted (~1 minute).
 4. Serve over jasmine rice and top with a sunny-side up egg. Enjoy!
 
+## Nutrition
+
+*Approximate values per serving (2 servings). Includes rice and egg.*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 520 |
+| **Protein** | 42g |
+| **Carbs** | 50g |
+| **Fat** | 16g |
+
 ## Notes
 
 Chili heat level: 1 chili = mild, 2 = medium, 3 = hot.

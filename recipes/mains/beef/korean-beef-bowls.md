@@ -55,6 +55,17 @@
 2. Plate over steamed rice alongside the cucumber salad.
 3. Top with sliced green onions and a sprinkle of sesame seeds.
 
+## Nutrition
+
+*Approximate values per serving (4 servings). Includes rice, does not include cucumber salad.*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 530 |
+| **Protein** | 45g |
+| **Carbs** | 55g |
+| **Fat** | 14g |
+
 ## Notes
 
 Gochujang heat level: 1 tbsp = mild, 2 tbsp = medium, 3 tbsp = hot.

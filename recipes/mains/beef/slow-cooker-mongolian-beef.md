@@ -47,6 +47,17 @@
 4. Scatter the matchstick carrots over the beef. Replace the lid and let everything cook for another 20–30 minutes, until the carrots are just tender and the sauce has thickened.
 5. Gently toss everything together and serve hot.
 
+## Nutrition
+
+*Approximate values per serving (6 servings). Does not include rice.*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 440 |
+| **Protein** | 35g |
+| **Carbs** | 18g |
+| **Fat** | 26g |
+
 ## Notes
 
 

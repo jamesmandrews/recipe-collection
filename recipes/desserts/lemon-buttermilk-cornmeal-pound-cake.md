@@ -52,6 +52,17 @@
 ### Lemon Glaze
 8. Whisk the powdered sugar, lemon juice, melted butter, and salt together until smooth and pourable. Drizzle over the fully cooled cake.
 
+## Nutrition
+
+*Approximate values per slice (14 slices). Includes glaze.*
+
+| | Per Slice |
+|-----|-----|
+| **Calories** | 375 |
+| **Protein** | 5g |
+| **Carbs** | 50g |
+| **Fat** | 18g |
+
 ## Notes
 
 - Let dairy ingredients come to room temperature for the best crumb texture.

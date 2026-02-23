@@ -93,9 +93,19 @@
 
 7. Spoon rice onto plates, top with the fresh herb salad, pile on the chicken shawarma, and drizzle with tzatziki sauce.
 
+## Nutrition
+
+*Approximate values per plate (4 servings). Includes rice, salad, and tzatziki.*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 620 |
+| **Protein** | 48g |
+| **Carbs** | 55g |
+| **Fat** | 25g |
+
 ## Notes
 
-- Approximate macros per plate: 620 cals | 48 g protein | 55 g carbs | 25 g fat.
 - Optional: add a fresh pickle on the side.
 - Leftover move: stuff everything into naan bread with sliced pickles the next day.
 

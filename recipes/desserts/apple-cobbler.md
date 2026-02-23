@@ -44,6 +44,17 @@
 6. Melt the remaining butter and brush it generously over the top crust.
 7. Lower the oven temperature to 300 °F (150 °C). Bake for up to 3 hours, checking at the 2 1/2-hour mark to make sure the crust isn't browning too quickly. The cobbler is done when the top is deep golden and the filling bubbles through any cracks.
 
+## Nutrition
+
+*Approximate values per serving (9 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 590 |
+| **Protein** | 4g |
+| **Carbs** | 80g |
+| **Fat** | 28g |
+
 ## Notes
 
 - The overnight marination is key — it draws out the apple juices and lets the spices develop.

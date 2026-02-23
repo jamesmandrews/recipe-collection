@@ -65,6 +65,17 @@
 13. Bake for 45–55 minutes until the rolls are golden, the syrup is bubbling, and the sauce has thickened.
 14. Let stand 10–15 minutes before serving. Serve warm and scoop generously.
 
+## Nutrition
+
+*Approximate values per serving (9 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 485 |
+| **Protein** | 4g |
+| **Carbs** | 65g |
+| **Fat** | 23g |
+
 ## Notes
 
 - **Milk vs. water for syrup:** Milk produces a richer, custard-like syrup. Water gives a lighter, more traditional variation.

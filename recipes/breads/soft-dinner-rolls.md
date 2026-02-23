@@ -30,6 +30,17 @@
 5. Cover and let rise for another 30 minutes.
 6. Bake at 350°F for 22–25 minutes, until golden and soft.
 
+## Nutrition
+
+*Approximate values per roll (24 rolls).*
+
+| | Per Roll |
+|-----|-----|
+| **Calories** | 185 |
+| **Protein** | 4g |
+| **Carbs** | 30g |
+| **Fat** | 5g |
+
 ## Notes
 
 - Water should be around 105–110°F — warm enough to activate the yeast but not so hot it kills it.

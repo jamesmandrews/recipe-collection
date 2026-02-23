@@ -66,6 +66,17 @@
 5. Mix the breadcrumbs, brown sugar, melted butter, cinnamon, and salt together, then sprinkle evenly over the top.
 6. Bake for 45–55 minutes, until the topping is golden brown and the filling is bubbling around the edges. Let it rest for 15–20 minutes before serving.
 
+## Nutrition
+
+*Approximate values per serving (9 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 560 |
+| **Protein** | 5g |
+| **Carbs** | 78g |
+| **Fat** | 26g |
+
 ## Notes
 
 - Serve warm with vanilla ice cream or whipped cream.

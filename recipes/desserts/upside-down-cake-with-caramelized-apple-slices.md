@@ -43,5 +43,16 @@
 5. Gently scoop the batter over the apples, spreading it evenly. Place the pan on a baking sheet to catch any potential spills.
 6. Bake for 35–40 minutes, or until a toothpick inserted into the center comes out clean. Allow the cake to cool for at least 5 minutes. Run a knife around the edges, then invert the cake onto a serving plate. Slice and enjoy!
 
+## Nutrition
+
+*Approximate values per slice (9 slices).*
+
+| | Per Slice |
+|-----|-----|
+| **Calories** | 345 |
+| **Protein** | 6g |
+| **Carbs** | 42g |
+| **Fat** | 17g |
+
 ---
 **Tags:** `#dessert` `#apple` `#cake` `#baked` `#caramel`

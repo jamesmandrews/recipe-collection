@@ -28,6 +28,17 @@
 1. Thinly slice the cucumbers and combine with the vinegar, sesame oil, sugar, salt, pepper flakes, and sesame seeds.
 2. Refrigerate for at least 15 minutes before serving to let the flavors meld.
 
+## Nutrition
+
+*Approximate values per serving (4 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 40 |
+| **Protein** | 1g |
+| **Carbs** | 6g |
+| **Fat** | 2g |
+
 ## Notes
 
 Great as a side for [Korean Beef Bowls](../mains/beef/korean-beef-bowls.md).

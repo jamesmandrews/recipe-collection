@@ -61,6 +61,17 @@
 12. Add the cooked pasta and toss to coat evenly. Add reserved pasta water one tablespoon at a time to thin the sauce if needed.
 13. Slice the cooled chicken breast, add to the pasta, and gently stir to combine. Serve immediately.
 
+## Nutrition
+
+*Approximate values per serving (10 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 655 |
+| **Protein** | 30g |
+| **Carbs** | 35g |
+| **Fat** | 45g |
+
 ## Notes
 
 If your sauce is too thick, slowly add reserved pasta water one to two tablespoons at a time to avoid making it runny.

@@ -37,6 +37,17 @@
 4. Take a small handful of the mixture, press a mozzarella cube into the center, and shape into a ball, sealing the cheese inside.
 5. Heat oil to 350°F (175°C) and fry the balls in batches until golden brown and crispy on all sides.
 
+## Nutrition
+
+*Approximate values per serving (~4 servings of 3-4 bites).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 345 |
+| **Protein** | 12g |
+| **Carbs** | 30g |
+| **Fat** | 20g |
+
 ## Notes
 
 ---

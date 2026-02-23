@@ -60,6 +60,17 @@
 - **Oven:** Keep wrapped in foil and bake at 350°F for 15-20 minutes from frozen.
 - Add fresh garnishes (avocado, sour cream, cilantro, lime) after reheating.
 
+## Nutrition
+
+*Approximate values per wrap (8 wraps). Does not include fresh garnishes.*
+
+| | Per Wrap |
+|-----|-----|
+| **Calories** | 420 |
+| **Protein** | 24g |
+| **Carbs** | 38g |
+| **Fat** | 18g |
+
 ## Notes
 
 - The key difference from the original Chicken Ranchero is less liquid — the filling needs to be thick so the wraps don't get soggy, especially after freezing.

@@ -40,6 +40,7 @@ A personal collection of recipes in standardized markdown format.
 - [Hungarian Pörkölt](recipes/mains/beef/hungarian-porkolt.md)
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
 - [Slow Cooker Mongolian Beef](recipes/mains/beef/slow-cooker-mongolian-beef.md)
+- [Soy Braised Beef Stew](recipes/mains/beef/soy-braised-beef-stew.md)
 - [Thai Basil Beef](recipes/mains/beef/thai-basil-beef.md)
 - [Turkish Kır Pidesi](recipes/mains/beef/turkish-kir-pidesi.md)
 
@@ -49,9 +50,11 @@ A personal collection of recipes in standardized markdown format.
 - [Chicken Garlic Parmesan Pasta](recipes/mains/chicken/chicken-garlic-parmesan-pasta.md)
 - [Chicken Shawarma Platter](recipes/mains/chicken/chicken-shawarma-platter.md)
 - [Chicken Soup with Ricotta Gnocchi](recipes/mains/chicken/chicken-soup-with-ricotta-gnocchi.md)
+- [Crispy Parmesan Chicken](recipes/mains/chicken/crispy-parmesan-chicken.md)
 - [Chili Mac Pot Pie](recipes/mains/chicken/chili-mac-pot-pie.md)
 - [Filipino Chicken Adobo](recipes/mains/chicken/filipino-chicken-adobo.md)
 - [Ground Chicken Ranchero Wraps](recipes/mains/chicken/ground-chicken-ranchero-wraps.md)
+- [Orange Chicken Rice Bowls](recipes/mains/chicken/orange-chicken-rice-bowls.md)
 
 #### Pizza
 - [Pizza Pockets](recipes/mains/pizza/pizza-pockets.md)
@@ -61,5 +64,6 @@ A personal collection of recipes in standardized markdown format.
 - [Toum (Lebanese Garlic Sauce)](recipes/sauces/toum.md)
 
 ### Sides
+- [Buttery Mashed Potatoes](recipes/sides/buttery-mashed-potatoes.md)
 - [German Style Rosemary Potatoes](recipes/sides/german-style-rosemary-potatoes.md)
 - [Korean Cucumber Salad](recipes/sides/korean-cucumber-salad.md)

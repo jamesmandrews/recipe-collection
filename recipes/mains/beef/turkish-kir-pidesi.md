@@ -58,6 +58,17 @@
 9. Shape the pide by folding and pinching the edges to form the traditional boat or oval shape, leaving the filling exposed in the center.
 10. Place on parchment-lined baking sheets and bake for 20-25 minutes until the dough is golden and the filling is cooked through.
 
+## Nutrition
+
+*Approximate values per pide (10 pide).*
+
+| | Per Pide |
+|-----|-----|
+| **Calories** | 455 |
+| **Protein** | 18g |
+| **Carbs** | 42g |
+| **Fat** | 24g |
+
 ## Notes
 
 - Tail fat (kuyruk yağı) is traditional and adds a distinctive richness, but butter works well as a substitute.

@@ -41,6 +41,17 @@
 8. Bake until the top is set and crackly but the center is still slightly underdone — a toothpick should come out with moist crumbs, not wet batter, about 25–30 minutes.
 9. Let cool completely in the pan, then refrigerate for at least 1–2 hours before slicing for the fudgiest texture.
 
+## Nutrition
+
+*Approximate values per brownie (14 brownies).*
+
+| | Per Brownie |
+|-----|-----|
+| **Calories** | 315 |
+| **Protein** | 4g |
+| **Carbs** | 33g |
+| **Fat** | 20g |
+
 ## Notes
 
 - Browning the butter adds a nutty, toffee-like depth — don't skip it.

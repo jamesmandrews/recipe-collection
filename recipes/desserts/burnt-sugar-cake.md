@@ -94,6 +94,17 @@
 3. Optionally, cover the outside with the penuche frosting for a creamier finish.
 4. Finish with rustic swoops and swirls.
 
+## Nutrition
+
+*Approximate values per slice (14 slices). Based on traditional burnt sugar frosting.*
+
+| | Per Slice |
+|-----|-----|
+| **Calories** | 645 |
+| **Protein** | 5g |
+| **Carbs** | 95g |
+| **Fat** | 28g |
+
 ## Notes
 
 - This cake is a piece of Black culinary history — a beloved celebration cake in Black Southern communities that faded as convenience baking took hold. Bringing it back honors that tradition.

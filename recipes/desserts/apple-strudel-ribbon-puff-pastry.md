@@ -32,6 +32,17 @@
 6. Bake at 400°F (200°C) until puffed and golden, about 20 minutes.
 7. Serve warm with ice cream or whipped cream.
 
+## Nutrition
+
+*Approximate values per serving (4 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 270 |
+| **Protein** | 4g |
+| **Carbs** | 33g |
+| **Fat** | 14g |
+
 ## Notes
 
 ---

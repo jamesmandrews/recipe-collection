@@ -71,6 +71,17 @@
 
 14. While still warm, dust with powdered sugar, sprinkle with granulated sugar, or drizzle with honey.
 
+## Nutrition
+
+*Approximate values per piece (9 pieces).*
+
+| | Per Piece |
+|-----|-----|
+| **Calories** | 630 |
+| **Protein** | 8g |
+| **Carbs** | 45g |
+| **Fat** | 47g |
+
 ## Notes
 
 - The original Azerbaijani recipe is traditionally deep-fried for the most authentic result.

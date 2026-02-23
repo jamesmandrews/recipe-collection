@@ -56,6 +56,17 @@
 
 8. Return the sauteed onions and mushrooms to the pan and stir to combine. Serve alongside roasted vegetables and mashed potatoes.
 
+## Nutrition
+
+*Approximate values per serving (5 servings). Does not include mashed potatoes or roasted vegetables.*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 765 |
+| **Protein** | 45g |
+| **Carbs** | 10g |
+| **Fat** | 62g |
+
 ## Notes
 
 - The heavy whipping cream is optional — the dish is still excellent without it.

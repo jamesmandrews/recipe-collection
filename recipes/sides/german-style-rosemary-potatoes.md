@@ -43,6 +43,17 @@
 7. Cook for about 30 minutes, turning occasionally, until the exteriors are browned and crispy and the insides are fully tender.
 8. Transfer to a serving dish and garnish with the reserved fresh rosemary.
 
+## Nutrition
+
+*Approximate values per serving (6 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 285 |
+| **Protein** | 4g |
+| **Carbs** | 30g |
+| **Fat** | 17g |
+
 ## Notes
 
 ---

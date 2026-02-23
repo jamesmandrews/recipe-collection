@@ -38,6 +38,17 @@
 5. Bake for 50-60 minutes. The edges should be set — a toothpick inserted about 2 inches from the edge should come out mostly clean — while the center will still appear slightly underdone.
 6. Let it cool briefly, then serve warm with a scoop of vanilla ice cream.
 
+## Nutrition
+
+*Approximate values per serving (9 servings). Does not include ice cream.*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 425 |
+| **Protein** | 5g |
+| **Carbs** | 50g |
+| **Fat** | 24g |
+
 ## Notes
 
 - The original recipe calls for a 2-quart (9x12) baking dish. A pie dish also works well — just reduce baking time by about 10 minutes.

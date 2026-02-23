@@ -48,6 +48,17 @@
 7. Switch the oven to convection broil at 450°F (230°C) and broil for 5–7 minutes to get a nice golden crust.
 8. Garnish with a bit of Maldon flaky salt and chopped parsley.
 
+## Nutrition
+
+*Approximate values per serving (6 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 510 |
+| **Protein** | 35g |
+| **Carbs** | 60g |
+| **Fat** | 14g |
+
 ## Notes
 
 - Marinating the chicken overnight with the spices significantly enhances the flavor.

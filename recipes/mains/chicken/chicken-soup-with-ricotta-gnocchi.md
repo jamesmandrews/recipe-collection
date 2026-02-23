@@ -48,3 +48,14 @@ Creamy, cheesy, cozy — the soup you'll crave all fall.
 4. Stir in spinach, chicken, mascarpone, and Parmesan. Cook 3 minutes until creamy and heated through.
 5. Gently fold in the cooked ricotta gnocchi and cook 1–2 minutes more.
 6. Garnish with extra Parmesan, basil, and red pepper. Serve hot.
+
+## Nutrition
+
+*Approximate values per serving (8 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 570 |
+| **Protein** | 35g |
+| **Carbs** | 22g |
+| **Fat** | 38g |

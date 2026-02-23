@@ -33,6 +33,17 @@
 4. Line a loaf pan with parchment paper or coat with butter. Pour in the batter.
 5. Bake for about 1 hour, or until a toothpick inserted in the center comes out clean.
 
+## Nutrition
+
+*Approximate values per slice (9 slices).*
+
+| | Per Slice |
+|-----|-----|
+| **Calories** | 320 |
+| **Protein** | 5g |
+| **Carbs** | 42g |
+| **Fat** | 15g |
+
 ## Notes
 
 - Coating the blueberries in flour prevents them from sinking to the bottom of the loaf.

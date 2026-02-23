@@ -45,6 +45,17 @@
 9. Place the pieces on a parchment-lined baking sheet.
 10. Bake for 25-30 minutes until golden brown.
 
+## Nutrition
+
+*Approximate values per roll (8 rolls).*
+
+| | Per Roll |
+|-----|-----|
+| **Calories** | 250 |
+| **Protein** | 7g |
+| **Carbs** | 52g |
+| **Fat** | 1g |
+
 ## Notes
 
 - The dough is intentionally very soft and sticky — resist the urge to add more flour, as this is what gives the bread its light, airy texture.

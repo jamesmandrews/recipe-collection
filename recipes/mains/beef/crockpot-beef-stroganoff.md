@@ -40,6 +40,17 @@
 6. Once the 8 hours is up, stir the meat together one last time, breaking any large chunks of stew meat into smaller pieces and smoothing out any clumps of cream cheese.
 7. Stir in the cooked egg noodles, garnish with fresh parsley, serve warm, and enjoy.
 
+## Nutrition
+
+*Approximate values per serving (7 servings).*
+
+| | Per Serving |
+|-----|-----|
+| **Calories** | 660 |
+| **Protein** | 40g |
+| **Carbs** | 55g |
+| **Fat** | 30g |
+
 ## Notes
 
 - Cream of mushroom soup can be used in place of Golden Mushroom Soup. The flavor will be milder — add a bit more Worcestershire sauce to compensate.
