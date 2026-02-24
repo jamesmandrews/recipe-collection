@@ -18,18 +18,18 @@
 ### Chicken
 | Ingredient | Amount |
 |------------|--------|
-| Butter | 1 tbsp |
-| Avocado oil | 1 tbsp |
-| Thin chicken breast cutlets (milanesa), or 3 whole breasts halved crosswise | 1.5 lb |
+| Butter | 1 tbsp (14g) |
+| Avocado oil | 1 tbsp (15ml) |
+| Thin chicken breast cutlets (milanesa), or 3 whole breasts halved crosswise | 1.5 lb (680g) |
 | Bell pepper, sliced | 1 |
 | Yellow onion, halved and sliced | 1 |
 | Fresh jalapeño (optional, see notes) | ½ to 1 whole |
-| Salt | ½ tsp |
+| Salt | ½ tsp (3g) |
 | Garlic, finely minced | 4 cloves |
-| Chicken stock | 1 cup |
-| Crushed tomatoes (14 oz can) | 1 can |
-| Paprika | ½ tsp |
-| Cumin | ½ tsp |
+| Chicken stock | 1 cup (240ml) |
+| Crushed tomatoes (14 oz / 400g can) | 1 can |
+| Paprika | ½ tsp (1g) |
+| Cumin | ½ tsp (1g) |
 | Salt, pepper, and granulated garlic | to taste |
 
 ### Garnish

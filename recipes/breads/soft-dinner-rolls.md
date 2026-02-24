@@ -13,13 +13,13 @@
 
 | Ingredient | Amount |
 |------------|--------|
-| Warm water | 2½ cups |
-| Active dry yeast | 2 tbsp |
-| Salted butter, melted | ½ cup |
-| Salt | 2 tsp |
-| Sugar | ½ cup |
+| Warm water | 2½ cups (600ml) |
+| Active dry yeast | 2 tbsp (20g) |
+| Salted butter, melted | ½ cup (115g) |
+| Salt | 2 tsp (10g) |
+| Sugar | ½ cup (100g) |
 | Egg | 1 |
-| All-purpose flour | 7 cups |
+| All-purpose flour | 7 cups (875g) |
 
 ## Instructions
 
@@ -28,7 +28,7 @@
 3. Place the dough in a greased bowl, cover, and let rise for 40 minutes.
 4. Punch down the dough and divide into rolls.
 5. Cover and let rise for another 30 minutes.
-6. Bake at 350°F for 22–25 minutes, until golden and soft.
+6. Bake at 350°F (175°C) for 22–25 minutes, until golden and soft.
 
 ## Nutrition
 
@@ -43,7 +43,7 @@
 
 ## Notes
 
-- Water should be around 105–110°F — warm enough to activate the yeast but not so hot it kills it.
+- Water should be around 105–110°F (40–43°C) — warm enough to activate the yeast but not so hot it kills it.
 - For uniform rolls, weigh the total dough and divide evenly.
 - Brush with melted butter right out of the oven for a soft, glossy top.
 

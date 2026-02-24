@@ -8,3 +8,4 @@
 - When adding a new recipe, always add it to the README.md in the appropriate category section, in alphabetical order
 - All recipe files live under `recipes/` organized by category (appetizers, breads, desserts, mains, sauces, sides)
 - Always translate recipes to English
+- Always include both imperial and metric measurements. If a recipe only has one system, convert and add the other
