@@ -36,6 +36,7 @@ A personal collection of recipes in standardized markdown format.
 
 #### Beef
 - [Braised Short Rib Stew with Collard Greens](recipes/mains/beef/braised-short-rib-stew-with-collard-greens.md)
+- [Cottage Pie](recipes/mains/beef/cottage-pie.md)
 - [Crockpot Beef Stroganoff](recipes/mains/beef/crockpot-beef-stroganoff.md)
 - [Ground Beef Stroganoff](recipes/mains/beef/ground-beef-stroganoff.md)
 - [Hungarian Pörkölt](recipes/mains/beef/hungarian-porkolt.md)
@@ -48,6 +49,7 @@ A personal collection of recipes in standardized markdown format.
 #### Chicken
 - [30 Minute Chicken Ranchero](recipes/mains/chicken/30-minute-chicken-ranchero.md)
 - [Baharat Chicken and Rice Bake](recipes/mains/chicken/baharat-chicken-and-rice-bake.md)
+- [Cheesy Garlic Parmesan Chicken and Potatoes](recipes/mains/chicken/cheesy-garlic-parmesan-chicken-and-potatoes.md)
 - [Chicken Garlic Parmesan Pasta](recipes/mains/chicken/chicken-garlic-parmesan-pasta.md)
 - [Chicken Shawarma Platter](recipes/mains/chicken/chicken-shawarma-platter.md)
 - [Chicken Soup with Ricotta Gnocchi](recipes/mains/chicken/chicken-soup-with-ricotta-gnocchi.md)
