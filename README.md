@@ -39,6 +39,7 @@ A personal collection of recipes in standardized markdown format.
 - [Cottage Pie](recipes/mains/beef/cottage-pie.md)
 - [Crockpot Beef Stroganoff](recipes/mains/beef/crockpot-beef-stroganoff.md)
 - [Ground Beef Stroganoff](recipes/mains/beef/ground-beef-stroganoff.md)
+- [Hungarian Goulash](recipes/mains/beef/hungarian-goulash.md)
 - [Hungarian Pörkölt](recipes/mains/beef/hungarian-porkolt.md)
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
 - [Slow Cooker Mongolian Beef](recipes/mains/beef/slow-cooker-mongolian-beef.md)
@@ -62,6 +63,7 @@ A personal collection of recipes in standardized markdown format.
 #### Pizza
 - [Pizza Pockets](recipes/mains/pizza/pizza-pockets.md)
 - [School Pizza](recipes/mains/pizza/school-pizza.md)
+- [Sicilian Style Pizza Dough](recipes/mains/pizza/sicilian-style-pizza-dough.md)
 
 ### Sauces
 - [Toum (Lebanese Garlic Sauce)](recipes/sauces/toum.md)
