@@ -35,6 +35,7 @@ A personal collection of recipes in standardized markdown format.
 ### Mains
 
 #### Beef
+- [Beef and Guinness Slow Cooker Stew](recipes/mains/beef/beef-and-guinness-slow-cooker-stew.md)
 - [Braised Short Rib Stew with Collard Greens](recipes/mains/beef/braised-short-rib-stew-with-collard-greens.md)
 - [Cottage Pie](recipes/mains/beef/cottage-pie.md)
 - [Crockpot Beef Stroganoff](recipes/mains/beef/crockpot-beef-stroganoff.md)
@@ -42,6 +43,7 @@ A personal collection of recipes in standardized markdown format.
 - [Hungarian Goulash](recipes/mains/beef/hungarian-goulash.md)
 - [Hungarian Pörkölt](recipes/mains/beef/hungarian-porkolt.md)
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
+- [Korean Beef Noodles](recipes/mains/beef/korean-beef-noodles.md)
 - [Slow Cooker Mongolian Beef](recipes/mains/beef/slow-cooker-mongolian-beef.md)
 - [Soy Braised Beef Stew](recipes/mains/beef/soy-braised-beef-stew.md)
 - [Thai Basil Beef](recipes/mains/beef/thai-basil-beef.md)
