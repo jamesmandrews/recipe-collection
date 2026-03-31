@@ -36,6 +36,7 @@ A personal collection of recipes in standardized markdown format.
 
 #### Beef
 - [Beef and Guinness Slow Cooker Stew](recipes/mains/beef/beef-and-guinness-slow-cooker-stew.md)
+- [Braised Beef Pappardelle](recipes/mains/beef/braised-beef-pappardelle.md)
 - [Braised Short Rib Stew with Collard Greens](recipes/mains/beef/braised-short-rib-stew-with-collard-greens.md)
 - [Cottage Pie](recipes/mains/beef/cottage-pie.md)
 - [Crockpot Beef Stroganoff](recipes/mains/beef/crockpot-beef-stroganoff.md)
