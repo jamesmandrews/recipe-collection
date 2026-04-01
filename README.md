@@ -45,8 +45,10 @@ A personal collection of recipes in standardized markdown format.
 - [Hungarian Pörkölt](recipes/mains/beef/hungarian-porkolt.md)
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
 - [Korean Beef Noodles](recipes/mains/beef/korean-beef-noodles.md)
+- [Slow Cooker Braised Beef](recipes/mains/beef/slow-cooker-braised-beef.md)
 - [Slow Cooker Mongolian Beef](recipes/mains/beef/slow-cooker-mongolian-beef.md)
 - [Soy Braised Beef Stew](recipes/mains/beef/soy-braised-beef-stew.md)
+- [Stovetop Beef Stew](recipes/mains/beef/stovetop-beef-stew.md)
 - [Thai Basil Beef](recipes/mains/beef/thai-basil-beef.md)
 - [Turkish Kır Pidesi](recipes/mains/beef/turkish-kir-pidesi.md)
 
