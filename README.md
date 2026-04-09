@@ -7,6 +7,7 @@ A personal collection of recipes in standardized markdown format.
 ### Appetizers
 - [Crunchy Garlic Parmesan Potato Bites](recipes/appetizers/crunchy-garlic-parmesan-potato-bites.md)
 - [Garlic Parmesan Potato Bites](recipes/appetizers/garlic-parmesan-potato-bites.md)
+- [Pizza Gyoza](recipes/appetizers/pizza-gyoza.md)
 
 ### Breads
 - [Azerbaijani Qatlama](recipes/breads/azerbaijani-qatlama.md)
@@ -44,6 +45,7 @@ A personal collection of recipes in standardized markdown format.
 - [Hungarian Goulash](recipes/mains/beef/hungarian-goulash.md)
 - [Hungarian Pörkölt](recipes/mains/beef/hungarian-porkolt.md)
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
+- [Korean Galbi (LA Kalbi Short Ribs)](recipes/mains/beef/korean-galbi.md)
 - [Korean Beef Noodles](recipes/mains/beef/korean-beef-noodles.md)
 - [Slow Cooker Braised Beef](recipes/mains/beef/slow-cooker-braised-beef.md)
 - [Slow Cooker Mongolian Beef](recipes/mains/beef/slow-cooker-mongolian-beef.md)
@@ -65,6 +67,9 @@ A personal collection of recipes in standardized markdown format.
 - [Ground Chicken Ranchero Wraps](recipes/mains/chicken/ground-chicken-ranchero-wraps.md)
 - [One Pot Chicken & Rice with Beans](recipes/mains/chicken/one-pot-chicken-and-rice-with-beans.md)
 - [Orange Chicken Rice Bowls](recipes/mains/chicken/orange-chicken-rice-bowls.md)
+
+#### Pork
+- [Filipino Adobo Pork Ribs](recipes/mains/pork/filipino-adobo-pork-ribs.md)
 
 #### Pizza
 - [Pizza Pockets](recipes/mains/pizza/pizza-pockets.md)
