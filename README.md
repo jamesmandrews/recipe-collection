@@ -8,6 +8,7 @@ A personal collection of recipes in standardized markdown format.
 - [Crunchy Garlic Parmesan Potato Bites](recipes/appetizers/crunchy-garlic-parmesan-potato-bites.md)
 - [Garlic Parmesan Potato Bites](recipes/appetizers/garlic-parmesan-potato-bites.md)
 - [Pizza Gyoza](recipes/appetizers/pizza-gyoza.md)
+- [Pizza Gyoza (Simple)](recipes/appetizers/pizza-gyoza-simple.md)
 
 ### Breads
 - [Azerbaijani Qatlama](recipes/breads/azerbaijani-qatlama.md)
