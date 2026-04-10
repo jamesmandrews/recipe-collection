@@ -47,6 +47,7 @@ A personal collection of recipes in standardized markdown format.
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
 - [Korean Galbi (LA Kalbi Short Ribs)](recipes/mains/beef/korean-galbi.md)
 - [Korean Beef Noodles](recipes/mains/beef/korean-beef-noodles.md)
+- [One-Pot Cheesy Beef Pasta](recipes/mains/beef/one-pot-cheesy-beef-pasta.md)
 - [Slow Cooker Braised Beef](recipes/mains/beef/slow-cooker-braised-beef.md)
 - [Slow Cooker Mongolian Beef](recipes/mains/beef/slow-cooker-mongolian-beef.md)
 - [Soy Braised Beef Stew](recipes/mains/beef/soy-braised-beef-stew.md)
