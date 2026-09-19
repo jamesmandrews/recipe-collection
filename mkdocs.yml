@@ -1,0 +1,61 @@
+site_name: Recipes
+site_description: A personal collection of recipes in standardized markdown format.
+site_url: https://jamesmandrews.github.io/recipe-collection/
+repo_url: https://github.com/jamesmandrews/recipe-collection
+repo_name: jamesmandrews/recipe-collection
+edit_uri: edit/main/recipes/
+
+docs_dir: recipes
+site_dir: site
+
+hooks:
+  - hooks/gen.py
+
+theme:
+  name: material
+  icon:
+    logo: material/chef-hat
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - admonition
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jamesmandrews/recipe-collection
