@@ -1,6 +1,6 @@
 site_name: Recipes
 site_description: A personal collection of recipes in standardized markdown format.
-site_url: https://jamesmandrews.github.io/recipe-collection/
+site_url: https://jamesmandrews.com/recipe-collection/
 repo_url: https://github.com/jamesmandrews/recipe-collection
 repo_name: jamesmandrews/recipe-collection
 edit_uri: edit/main/recipes/
