@@ -13,6 +13,9 @@ hooks:
 
 theme:
   name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
   icon:
     logo: material/chef-hat
     repo: fontawesome/brands/github
@@ -29,18 +32,21 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep orange
-      accent: deep orange
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep orange
-      accent: deep orange
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
