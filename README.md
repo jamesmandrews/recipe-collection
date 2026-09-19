@@ -38,6 +38,8 @@ A personal collection of recipes in standardized markdown format.
 ### Mains
 
 #### Beef
+- [Baked Meatballs in Cream of Celery Gravy](recipes/mains/beef/baked-meatballs-cream-of-celery.md)
+- [Baked Meatballs in Cream of Mushroom Gravy](recipes/mains/beef/baked-meatballs-cream-of-mushroom.md)
 - [Beef and Guinness Slow Cooker Stew](recipes/mains/beef/beef-and-guinness-slow-cooker-stew.md)
 - [Braised Beef Pappardelle](recipes/mains/beef/braised-beef-pappardelle.md)
 - [Braised Short Rib Stew with Collard Greens](recipes/mains/beef/braised-short-rib-stew-with-collard-greens.md)
@@ -50,10 +52,12 @@ A personal collection of recipes in standardized markdown format.
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
 - [Korean Galbi (LA Kalbi Short Ribs)](recipes/mains/beef/korean-galbi.md)
 - [Korean Beef Noodles](recipes/mains/beef/korean-beef-noodles.md)
+- [One Pan Goulash](recipes/mains/beef/one-pan-goulash.md)
 - [One-Pot Cheesy Beef Pasta](recipes/mains/beef/one-pot-cheesy-beef-pasta.md)
 - [Slow Cooker Beef & Mushroom Gnocchi](recipes/mains/beef/slow-cooker-beef-mushroom-gnocchi.md)
 - [Slow Cooker Braised Beef](recipes/mains/beef/slow-cooker-braised-beef.md)
 - [Slow Cooker Mongolian Beef](recipes/mains/beef/slow-cooker-mongolian-beef.md)
+- [Slow Cooker Shredded Beef](recipes/mains/beef/slow-cooker-shredded-beef.md)
 - [Soy Braised Beef Stew](recipes/mains/beef/soy-braised-beef-stew.md)
 - [Stovetop Beef Stew](recipes/mains/beef/stovetop-beef-stew.md)
 - [Thai Basil Beef](recipes/mains/beef/thai-basil-beef.md)
@@ -76,6 +80,7 @@ A personal collection of recipes in standardized markdown format.
 #### Pork
 - [Filipino Adobo Pork Ribs](recipes/mains/pork/filipino-adobo-pork-ribs.md)
 - [Instant Pot Balsamic Pork Tenderloin](recipes/mains/pork/instant-pot-balsamic-pork-tenderloin.md)
+- [Instant Pot Miso-Ginger Pork Tenderloin](recipes/mains/pork/instant-pot-miso-ginger-pork-tenderloin.md)
 
 #### Pizza
 - [Pizza Pockets](recipes/mains/pizza/pizza-pockets.md)
