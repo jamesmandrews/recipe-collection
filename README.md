@@ -1,6 +1,11 @@
 # Recipes
 
-A personal collection of recipes in standardized markdown format.
+A personal collection of recipes in standardized markdown format. Most are untested —
+the ones below are the ones I've actually made and would make again.
+
+## Made & Liked
+
+<!-- Add a recipe here once you've made it and it's worth repeating. -->
 
 ## Recipes
 
