@@ -7,6 +7,9 @@ the ones below are the ones I've actually made and would make again.
 
 <!-- Add a recipe here once you've made it and it's worth repeating. -->
 
+- [Cottage Pie](recipes/mains/beef/cottage-pie.md)
+- [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
+
 ## Recipes
 
 ### Appetizers
