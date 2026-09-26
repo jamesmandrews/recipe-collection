@@ -15,6 +15,7 @@ the ones below are the ones I've actually made and would make again.
 
 ### Appetizers
 - [Crunchy Garlic Parmesan Potato Bites](recipes/appetizers/crunchy-garlic-parmesan-potato-bites.md)
+- [French Onion Twisters](recipes/appetizers/french-onion-twisters.md)
 - [Garlic Parmesan Potato Bites](recipes/appetizers/garlic-parmesan-potato-bites.md)
 - [Pizza Gyoza](recipes/appetizers/pizza-gyoza.md)
 - [Pizza Gyoza (Simple)](recipes/appetizers/pizza-gyoza-simple.md)
