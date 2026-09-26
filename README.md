@@ -7,6 +7,7 @@ the ones below are the ones I've actually made and would make again.
 
 <!-- Add a recipe here once you've made it and it's worth repeating. -->
 
+- [Chicken & Stuffing Bake with Vegetables](recipes/mains/chicken/chicken-and-stuffing-bake-with-vegetables.md)
 - [Cottage Pie](recipes/mains/beef/cottage-pie.md)
 - [Korean Beef Bowls](recipes/mains/beef/korean-beef-bowls.md)
 
