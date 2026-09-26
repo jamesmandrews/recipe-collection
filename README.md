@@ -67,6 +67,7 @@ A personal collection of recipes in standardized markdown format.
 - [30 Minute Chicken Ranchero](recipes/mains/chicken/30-minute-chicken-ranchero.md)
 - [Baharat Chicken and Rice Bake](recipes/mains/chicken/baharat-chicken-and-rice-bake.md)
 - [Cheesy Garlic Parmesan Chicken and Potatoes](recipes/mains/chicken/cheesy-garlic-parmesan-chicken-and-potatoes.md)
+- [Chicken & Stuffing Bake with Vegetables](recipes/mains/chicken/chicken-and-stuffing-bake-with-vegetables.md)
 - [Chicken Garlic Parmesan Pasta](recipes/mains/chicken/chicken-garlic-parmesan-pasta.md)
 - [Chicken Shawarma Platter](recipes/mains/chicken/chicken-shawarma-platter.md)
 - [Chicken Soup with Ricotta Gnocchi](recipes/mains/chicken/chicken-soup-with-ricotta-gnocchi.md)
