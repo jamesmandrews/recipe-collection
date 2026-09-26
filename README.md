@@ -81,6 +81,7 @@ the ones below are the ones I've actually made and would make again.
 - [Chicken Garlic Parmesan Pasta](recipes/mains/chicken/chicken-garlic-parmesan-pasta.md)
 - [Chicken Shawarma Platter](recipes/mains/chicken/chicken-shawarma-platter.md)
 - [Chicken Soup with Ricotta Gnocchi](recipes/mains/chicken/chicken-soup-with-ricotta-gnocchi.md)
+- [Crispy Honey Garlic Chicken Thighs](recipes/mains/chicken/crispy-honey-garlic-chicken-thighs.md)
 - [Crispy Parmesan Chicken](recipes/mains/chicken/crispy-parmesan-chicken.md)
 - [Chili Mac Pot Pie](recipes/mains/chicken/chili-mac-pot-pie.md)
 - [Filipino Chicken Adobo](recipes/mains/chicken/filipino-chicken-adobo.md)
