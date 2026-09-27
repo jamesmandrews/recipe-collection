@@ -86,6 +86,7 @@ the ones below are the ones I've actually made and would make again.
 - [Chili Mac Pot Pie](recipes/mains/chicken/chili-mac-pot-pie.md)
 - [Filipino Chicken Adobo](recipes/mains/chicken/filipino-chicken-adobo.md)
 - [Ground Chicken Ranchero Wraps](recipes/mains/chicken/ground-chicken-ranchero-wraps.md)
+- [Hot Honey Garlic Chicken Tacos](recipes/mains/chicken/hot-honey-garlic-chicken-tacos.md)
 - [One Pot Chicken & Rice with Beans](recipes/mains/chicken/one-pot-chicken-and-rice-with-beans.md)
 - [Orange Chicken Rice Bowls](recipes/mains/chicken/orange-chicken-rice-bowls.md)
 
