@@ -36,6 +36,7 @@ the ones below are the ones I've actually made and would make again.
 - [Apple Cobbler](recipes/desserts/apple-cobbler.md)
 - [Apple Fritter Loaf Cake](recipes/desserts/apple-fritter-loaf-cake.md)
 - [Apple Strudel Ribbon Puff Pastry](recipes/desserts/apple-strudel-ribbon-puff-pastry.md)
+- [Brown Butter Apple Coffee Cake Loaf](recipes/desserts/brown-butter-apple-coffee-cake-loaf.md)
 - [Brownie Pudding](recipes/desserts/brownie-pudding.md)
 - [Cherry Brown Betty](recipes/desserts/cherry-brown-betty.md)
 - [Lemon Buttermilk Cornmeal Pound Cake](recipes/desserts/lemon-buttermilk-cornmeal-pound-cake.md)
