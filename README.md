@@ -21,6 +21,7 @@ the ones below are the ones I've actually made and would make again.
 - [Pizza Gyoza (Simple)](recipes/appetizers/pizza-gyoza-simple.md)
 
 ### Breads
+- [Apple Cider Cinnamon Focaccia](recipes/breads/apple-cider-cinnamon-focaccia.md)
 - [Azerbaijani Qatlama](recipes/breads/azerbaijani-qatlama.md)
 - [Bacon Cheddar Cheese Bread](recipes/breads/bacon-cheddar-cheese-bread.md)
 - [Caramelized Onion Rye Babka](recipes/breads/caramelized-onion-rye-babka.md)
@@ -33,6 +34,7 @@ the ones below are the ones I've actually made and would make again.
 
 ### Desserts
 - [Apple Cobbler](recipes/desserts/apple-cobbler.md)
+- [Apple Fritter Loaf Cake](recipes/desserts/apple-fritter-loaf-cake.md)
 - [Apple Strudel Ribbon Puff Pastry](recipes/desserts/apple-strudel-ribbon-puff-pastry.md)
 - [Brownie Pudding](recipes/desserts/brownie-pudding.md)
 - [Cherry Brown Betty](recipes/desserts/cherry-brown-betty.md)
