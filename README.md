@@ -82,6 +82,7 @@ the ones below are the ones I've actually made and would make again.
 - [Cheesy Garlic Parmesan Chicken and Potatoes](recipes/mains/chicken/cheesy-garlic-parmesan-chicken-and-potatoes.md)
 - [Chicken & Stuffing Bake with Vegetables](recipes/mains/chicken/chicken-and-stuffing-bake-with-vegetables.md)
 - [Chicken Garlic Parmesan Pasta](recipes/mains/chicken/chicken-garlic-parmesan-pasta.md)
+- [Chicken Pot Pie Orzo Skillet](recipes/mains/chicken/chicken-pot-pie-orzo-skillet.md)
 - [Chicken Shawarma Platter](recipes/mains/chicken/chicken-shawarma-platter.md)
 - [Chicken Soup with Ricotta Gnocchi](recipes/mains/chicken/chicken-soup-with-ricotta-gnocchi.md)
 - [Crispy Honey Garlic Chicken Thighs](recipes/mains/chicken/crispy-honey-garlic-chicken-thighs.md)
