@@ -19,48 +19,48 @@
 ### Brown Butter Cake
 | Ingredient | Imperial | Metric |
 |------------|----------|--------|
-| Salted butter | ½ cup (1 stick) | 113 g |
-| Granulated sugar | ½ cup | 100 g |
+| Salted butter | 4 oz (1 stick) | 113 g |
+| Granulated sugar | 3.5 oz | 100 g |
 | Eggs, room temperature | 2 | 2 |
 | Vanilla extract | 1 tsp | 5 ml |
-| All-purpose flour | 1½ cups | 180 g |
+| All-purpose flour | 6.3 oz | 180 g |
 | Baking powder | 1½ tsp | 6 g |
 | Baking soda | ½ tsp | 3 g |
 | Cinnamon | 1 tsp | 3 g |
 | Nutmeg | ½ tsp | 1 g |
 | Salt | ½ tsp | 3 g |
-| Plain Greek yogurt, room temperature | ½ cup | 120 g |
+| Plain Greek yogurt, room temperature | 4.2 oz | 120 g |
 
 ### Caramelized Apples
 | Ingredient | Imperial | Metric |
 |------------|----------|--------|
 | Apples, peeled and diced | 2 medium (about 2 cups) | 300 g |
-| Butter | 1 tbsp | 14 g |
-| Brown sugar, packed | 1½ tbsp | 18 g |
+| Butter | 0.5 oz | 14 g |
+| Brown sugar, packed | 0.6 oz | 18 g |
 | Cinnamon | ¾ tsp | 2 g |
 | Salt | pinch | pinch |
 
 ### Cinnamon Swirl
 | Ingredient | Imperial | Metric |
 |------------|----------|--------|
-| Brown sugar, packed | ¼ cup | 50 g |
+| Brown sugar, packed | 1.8 oz | 50 g |
 | Cinnamon | 1½ tsp | 4 g |
 | All-purpose flour | 1 tsp | 3 g |
-| Butter, melted | 1½ tbsp | 21 g |
+| Butter, melted | 0.75 oz | 21 g |
 
 ### Streusel
 | Ingredient | Imperial | Metric |
 |------------|----------|--------|
-| All-purpose flour | ⅓ cup | 40 g |
-| Brown sugar, packed | ¼ cup | 50 g |
+| All-purpose flour | 1.4 oz | 40 g |
+| Brown sugar, packed | 1.8 oz | 50 g |
 | Cinnamon | ½ tsp | 1.5 g |
 | Salt | pinch | pinch |
-| Butter, melted | 3 tbsp | 42 g |
+| Butter, melted | 1.5 oz | 42 g |
 
 ### Vanilla Bean Glaze (Optional)
 | Ingredient | Imperial | Metric |
 |------------|----------|--------|
-| Powdered sugar | ½ cup | 60 g |
+| Powdered sugar | 2.1 oz | 60 g |
 | Vanilla bean paste | ½ tsp | 2.5 ml |
 | Salt | pinch | pinch |
 | Milk | 1½-2 tbsp | 22-30 ml |
@@ -71,11 +71,11 @@
 1. Preheat the oven to 350°F (175°C). Line a 9x5 inch (23x13 cm) loaf pan with parchment paper, leaving an overhang on the long sides to lift the loaf out later.
 
 ### Brown the Butter
-1. Melt the ½ cup (113 g) salted butter in a light-colored saucepan over medium heat. Continue cooking, stirring constantly, as it foams and the milk solids at the bottom turn golden and smell nutty, about 5-7 minutes.
+1. Melt the 4 oz (113 g) salted butter in a light-colored saucepan over medium heat. Continue cooking, stirring constantly, as it foams and the milk solids at the bottom turn golden and smell nutty, about 5-7 minutes.
 2. Immediately pour the butter and all the browned bits into a large mixing bowl and let it cool until just warm.
 
 ### Caramelize the Apples
-1. Melt the 1 tbsp (14 g) butter in a skillet over medium heat. Add the diced apples, brown sugar, cinnamon, and salt.
+1. Melt the 0.5 oz (14 g) butter in a skillet over medium heat. Add the diced apples, brown sugar, cinnamon, and salt.
 2. Cook for 3-5 minutes, stirring occasionally, until the apples are glossy and slightly softened. If a lot of liquid has pooled, remove the apples with a slotted spoon and simmer the liquid until thickened, then stir the apples back in.
 3. Set aside to cool completely.
 
@@ -103,6 +103,7 @@
 
 ## Notes
 
+- **Weighed, not scooped.** Butter, sugars, flour, and yogurt are given by weight — a scooped cup of flour can run 20% heavy, which is the difference between a moist loaf and a dry one. The 1 tsp of flour in the cinnamon swirl (3 g) stays as a volume measure; it is below the resolution of most home scales.
 - **Cool the brown butter.** If it is still hot when the eggs go in, they will scramble. Just warm to the touch is right.
 - **Cool the apples too.** Warm apples will melt the batter and sink through the loaf.
 - **Apple choice.** Firm, tart varieties hold their shape best — Granny Smith, Honeycrisp, or Braeburn. Avoid Red Delicious, which turns mealy.
