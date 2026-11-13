@@ -109,5 +109,6 @@ the ones below are the ones I've actually made and would make again.
 
 ### Sides
 - [Buttery Mashed Potatoes](recipes/sides/buttery-mashed-potatoes.md)
+- [French Onion Scalloped Potatoes](recipes/sides/french-onion-scalloped-potatoes.md)
 - [German Style Rosemary Potatoes](recipes/sides/german-style-rosemary-potatoes.md)
 - [Korean Cucumber Salad](recipes/sides/korean-cucumber-salad.md)
